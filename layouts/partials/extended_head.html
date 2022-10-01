@@ -1,0 +1,305 @@
+<!--
+To add an extended head section, please create
+`layouts/partials/extended_head.html` in your Hugo directory.
+-->
+{{- if or (.IsHome) (.Params.math) -}}
+<link rel="stylesheet" href='{{ "katex/katex.min.css" | absURL }}' integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+{{- end -}}
+{{- with .Params.math -}}
+<style type="text/css">
+<!--
+  .line-bc {
+  padding: 20px 10px;
+  max-width: 800px;
+  margin: 15px auto;
+  background: #7da4cd;
+
+}
+/* 吹き出し本体 */
+.balloon1{
+  position: relative;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #eee;
+  margin: 10px 20% 20px 50px;          /* 左に余白を設ける */
+}
+/* 画像 - 絶対配置で左上に配置 */
+.balloon1 .icon{
+  position: absolute;
+  left: -70px;
+  top: -20px;
+}
+.balloon1 .name {
+  position: absolute;
+  font-size: 12px;
+  left: 10px;
+  top: -15px;
+}
+/* 三角アイコン */
+.balloon1::before{
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 3px; 
+  left: -19px;
+  border: 8px solid transparent;
+  border-right: 18px solid #eee;
+  -webkit-transform: rotate(35deg);
+  transform: rotate(35deg);
+}
+
+/* 吹き出し本体 */
+.balloon2{
+  position: relative;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #7d6;
+  margin: 10px 60px 20px 20%;
+}
+/* 画像 - 絶対配置で右上に配置 */
+.balloon2 .icon{
+  position: absolute;
+  right: -80px;
+  top: -20px;
+}
+.balloon2 .name {
+  position: absolute;
+  font-size: 12px;
+  right: 10px;
+  top: -15px;
+}
+/* 三角アイコン */
+.balloon2::before{
+  content: "";
+  position: absolute;
+  top: 3px; 
+  right: -19px;
+  border: 8px solid transparent;
+  border-left: 18px solid #7d6;
+  -webkit-transform: rotate(-35deg);
+  transform: rotate(-35deg);
+}
+-->
+</style>
+{{- end -}}
+{{- if or (.HasShortcode "fancybox") (.HasShortcode "vimeo") -}}
+<link rel="stylesheet" type="text/css" href='{{ "fancybox/jquery.fancybox.min.css" | absURL }}'>
+<style type="text/css">
+<!--
+  figure {
+      width: 310px;
+      max-width: 100%;
+      margin: 0px;
+  }
+  figure img{
+    padding: 5px;
+    border: solid 1px #aaa;
+    width: 100%;
+  }
+  figure figcaption{
+    color: #aaa;
+    text-align: center;
+    font-size: 12px;
+  }
+-->
+</style>
+{{- end -}}
+{{- if eq .File.LogicalName "bbs.md" -}}
+<style type="text/css">
+  .bbs-link button{
+    margin: 10px 0;
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+  .bbs-link button.link{
+    color: #0366d6;
+    text-decoration: none;
+  }
+  .bbs-link button.num-normal{
+    font-weight: bold;
+    cursor: default;
+  }
+  .bbs-link button.cursor-normal{
+    cursor: default;
+  }
+  .bbs-link button.link:hover{
+    text-decoration: underline;
+  }
+  .bbs-link button.number{
+    width: 25px;
+  }
+  article.bbs{
+    border: 1px solid #d1d5da;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  .button{
+    height: 20px;
+  }
+  #text{
+    width: 100%;
+  }
+  .eac-sugg{
+    color: #d1d5da;
+  }
+  #bbs ::placeholder{
+    color: #d1d5da;
+  }
+  .error{
+    color:#f44;
+  }
+</style>
+{{- end -}}
+{{- if eq .File.LogicalName "form.md" -}}
+<style type="text/css">
+  .eac-sugg{
+    color: #d1d5da;
+  }
+  #bbs ::placeholder{
+    color: #d1d5da;
+  }
+  #text{
+    width: 100%;
+  }
+  .error{
+    color:#f44;
+  }
+</style>
+{{- end -}}
+<style type="text/css">
+  .header-search-wrapper {
+    background-color:#24292e !important;
+    border: 1px solid #444d56 !important;
+  }
+  #navDmy{
+    height: 56px;
+  }
+  #header{
+    position: fixed;
+    height: 56px;
+    top:-56px;
+  }
+  .avatar-user{
+    border-radius: 50% !important;
+  }
+  img#avatar{
+    border: 1px solid #d1d5da;
+  }
+  h2#search{
+    padding: 16px 0;
+    border-bottom: 1px solid #e1e4e8;
+  }
+  button.btn-link{
+    outline: none;
+  }
+  #searchbox::placeholder {
+    color: #fff;
+    opacity:1;
+  }
+  #searchbox {
+    position: relative; /* 絶対配置の基準を設定 */
+  }
+  #min_avatar{
+    position: relative;
+  }
+  #dropbox:after,#dropbox:before{
+      border: solid transparent;
+      content:'';
+      height:0;
+      width:0;
+      pointer-events:none;
+      position:absolute;
+      bottom:100%;
+      left:84%;
+  }
+  #dropbox:after{
+      border-color: rgba(0, 0, 0, 0);
+      border-top-width:10px;
+      border-bottom-width:10px;
+      border-left-width:11px;
+      border-right-width:11px;
+      margin-left: -11px;
+      border-bottom-color:#FFFFFF;
+  }
+  #dropbox:before{
+      border-color: rgba(0, 0, 0, 0);
+      border-top-width:11px;
+      border-bottom-width:11px;
+      border-left-width:11px;
+      border-right-width:11px;
+      margin-left: -11px;
+      margin-bottom: 1px;
+      border-bottom-color:#d1d5da;
+  }
+  #dropbox{
+    width: 120px;
+    background: #fff;
+    color:#000;
+    box-shadow: 0 4px 10px rgba(0,0,0,.1);
+    border-radius: 3px;
+    border: 1px solid #d1d5da;
+    position: absolute;
+    top: 55px;
+    left: -90px;
+    display: block;
+    z-index: 45;
+    padding:10px;
+    text-align:left;
+  }
+  #dropbox {
+    display: none;
+  }
+  #min_avatar{
+    cursor:pointer;
+  }
+  #min_avatar.is-open + #dropbox {
+    display: block;
+    z-index: 4;
+  }
+  #dropdown{
+    width: 300px;
+  }
+  .dropdown__body {
+    width: 300px;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0,0,0,.1);
+    border-radius: 0 0 3px 3px;
+    border: 1px solid #d1d5da;
+    top: 41px;
+    left: 64px;
+  }
+  .dropdown__body {
+    display: none;
+  }
+  #dropdown.is-open+.dropdown__body {
+    display: block;
+    z-index: 35;
+  }
+  .navigation-item:hover {
+    background: #0366d6;
+  }
+  .navigation-item:hover a {
+    color: #fff;
+  }
+  .navigation-item:hover svg {
+    color: #fff!important;
+  }
+@media (min-width:768px) {
+ .p-responsive {
+    padding-right:16px!important;
+    padding-left:16px!important
+   }
+  }
+@media (min-width:768px) {
+  .page-responsive .Header.Details .Header-item.Details-content--hidden {
+    display:flex!important
+  }
+}
+</style>

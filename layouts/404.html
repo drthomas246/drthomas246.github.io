@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+
+<body class="env-production emoji-size-boost page-responsive page-profile">
+  {{ partial "header" . }}
+  <div id="search">
+    <iframe src='{{ "/404-sub.html" | absURL }}' scrolling="no" frameborder="no"></iframe>
+    <div id="request" style="display:none;">
+    このサイトには"動作と方向"を利用したアニメーションが含まれています。"動作と方向"を利用する場合は、許可ボタンを押してください。
+    <button id="request_button">許可する</button>
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
+</body>
+</html>

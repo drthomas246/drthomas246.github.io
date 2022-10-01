@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中学数学 on HoBoFoTo</title>
+    <link>https://www.hobofoto.work/math/</link>
+    <description>Recent content in 中学数学 on HoBoFoTo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 22:02:10 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四則演算</title>
+      <link>https://www.hobofoto.work/math/four-arithmetic-operations/</link>
+      <pubDate>Tue, 03 Nov 2020 21:08:04 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/four-arithmetic-operations/</guid>
+      <description>ペンギン君 やっとこれで、すべての計算ができるようになりましたね。 フクロウ博士 では、今回は足し算、引き算、かけ算、割り算が入り交じった計算を考</description>
+    </item>
+    
+    <item>
+      <title>正負の除法</title>
+      <link>https://www.hobofoto.work/math/division-of-positive-and-negative/</link>
+      <pubDate>Thu, 15 Oct 2020 22:05:12 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/division-of-positive-and-negative/</guid>
+      <description>フクロウ博士 さて、足し算（加法）、引き算（減法）、かけ算（乗法）とやってきたが残すところは … ペンギン君 割り算ですね。 フクロウ博士 そのとおり。</description>
+    </item>
+    
+    <item>
+      <title>正負の乗法</title>
+      <link>https://www.hobofoto.work/math/multiplication-of-positive-and-negative/</link>
+      <pubDate>Thu, 15 Oct 2020 21:45:05 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/multiplication-of-positive-and-negative/</guid>
+      <description>フクロウ博士 今回はかけ算について考えるぞ ペンギン君 小学校の時に必死に覚えた九九が登場するんですね フクロウ博士 そう、でも中学校ではそれだけでは</description>
+    </item>
+    
+    <item>
+      <title>累乗</title>
+      <link>https://www.hobofoto.work/math/the-power/</link>
+      <pubDate>Thu, 15 Oct 2020 19:29:03 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/the-power/</guid>
+      <description>フクロウ博士 今回は少し変わったかけ算を考えてみようと思う。 ペンギン君 少し変わったとはどういうことですか？ フクロウ博士 同じ数字を何回もかけたか</description>
+    </item>
+    
+    <item>
+      <title>正負の減法</title>
+      <link>https://www.hobofoto.work/math/subtraction-of-positive-and-negative/</link>
+      <pubDate>Sun, 11 Oct 2020 12:29:07 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/subtraction-of-positive-and-negative/</guid>
+      <description>フクロウ博士 前回は足し算について考えたの。 ペンギン君 今回は何をするのですか？ フクロウ博士 今回は引き算について考えていこうと思う。 ペンギン君 足</description>
+    </item>
+    
+    <item>
+      <title>正負の加法</title>
+      <link>https://www.hobofoto.work/math/addition-of-positive-and-negative/</link>
+      <pubDate>Sun, 11 Oct 2020 11:52:50 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/addition-of-positive-and-negative/</guid>
+      <description>フクロウ博士 今回は足し算についてやってみようと思う。 ペンギン君 小学校でも足し算はやりましたよね。 フクロウ博士 そうじゃ。 でも負の数が入ってきた</description>
+    </item>
+    
+    <item>
+      <title>整数、自然数</title>
+      <link>https://www.hobofoto.work/math/integer-and-natural-number/</link>
+      <pubDate>Sun, 11 Oct 2020 10:54:09 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/integer-and-natural-number/</guid>
+      <description>フクロウ博士 前回は$0$より下の数、負の数について学んだな。 ペンギン君 $-1,-2$という数ですね。 フクロウ博士 そうじゃ。 それでは、今まで習</description>
+    </item>
+    
+    <item>
+      <title>負の数</title>
+      <link>https://www.hobofoto.work/math/negative-number/</link>
+      <pubDate>Sat, 10 Oct 2020 22:19:46 +0900</pubDate>
+      
+      <guid>https://www.hobofoto.work/math/negative-number/</guid>
+      <description>フクロウ博士 今回から中学校の数学について考えていこうと思う。 ペンギン君 唐突ですね。でも中学校の数学は小学校と違って難しいのではないですか？ フ</description>
+    </item>
+    
+  </channel>
+</rss>

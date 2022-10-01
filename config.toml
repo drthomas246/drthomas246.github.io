@@ -1,0 +1,23 @@
+title = "HoBoFoTo"
+baseURL = "https://www.hobofoto.work/"
+copyright = "&copy; 2000 Dr?Thomas"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+theme = "github-style"
+enableRobotsTXT = true
+hasCJKLanguage = true
+paginate = 5
+rssLimit = 10
+googleanalytics = "G-97PH80KBHV"
+
+[params]
+  author = "Dr?Thomas"
+  country = "Japan"
+  location = "Osaka"
+  description = "Hobo everyday foto."
+  github = "drthomas246"
+  facebook = "hobofoto.net"
+  twitter = "hobofoto_net"
+  email = "yoshihiro@yamahara.email"
+  avatar = "images/17758220.png"
+  url = "http://hobofoto.s205.xrea.com/"
