@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on HoBoFoTo</title>
-    <link>https://www.hobofoto.work/blog/</link>
+    <link>https://drthomas246.github.io/blog/</link>
     <description>Recent content in Blogs on HoBoFoTo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
-    <lastBuildDate>Fri, 27 Nov 2020 07:59:38 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 07:59:38 +0900</lastBuildDate><atom:link href="https://drthomas246.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git bashが遅い</title>
-      <link>https://www.hobofoto.work/blog/git-ps1/</link>
+      <link>https://drthomas246.github.io/blog/git-ps1/</link>
       <pubDate>Fri, 27 Nov 2020 07:59:38 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/git-ps1/</guid>
+      <guid>https://drthomas246.github.io/blog/git-ps1/</guid>
       <description>Windows で git bash を使っているとイラっとするのが、git管理しているときにプロンプトの表示が異様に遅いことです。 なぜなのか原因を追究してみると、どうも</description>
     </item>
     
     <item>
       <title>あじさい</title>
-      <link>https://www.hobofoto.work/blog/hydrangea/</link>
+      <link>https://drthomas246.github.io/blog/hydrangea/</link>
       <pubDate>Fri, 27 May 2016 16:24:38 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/hydrangea/</guid>
+      <guid>https://drthomas246.github.io/blog/hydrangea/</guid>
       <description>きれいに咲いてます。 あじさい</description>
     </item>
     
     <item>
       <title>つつじ</title>
-      <link>https://www.hobofoto.work/blog/azalea/</link>
+      <link>https://drthomas246.github.io/blog/azalea/</link>
       <pubDate>Wed, 25 May 2016 16:19:00 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/azalea/</guid>
+      <guid>https://drthomas246.github.io/blog/azalea/</guid>
       <description>満開の花が見事な咲きっぷりです。 つつじ</description>
     </item>
     
     <item>
       <title>花とベンチ</title>
-      <link>https://www.hobofoto.work/blog/flowers-and-bench/</link>
+      <link>https://drthomas246.github.io/blog/flowers-and-bench/</link>
       <pubDate>Sat, 21 May 2016 16:10:33 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/flowers-and-bench/</guid>
+      <guid>https://drthomas246.github.io/blog/flowers-and-bench/</guid>
       <description>大天人菊オオテンニンギクです。 春を感じるので撮ってみました。 オオテンニンギク</description>
     </item>
     
     <item>
       <title>森と池</title>
-      <link>https://www.hobofoto.work/blog/forest-and-pond/</link>
+      <link>https://drthomas246.github.io/blog/forest-and-pond/</link>
       <pubDate>Tue, 10 May 2016 23:32:33 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/forest-and-pond/</guid>
+      <guid>https://drthomas246.github.io/blog/forest-and-pond/</guid>
       <description>神聖な雰囲気が漂っています。 森と池</description>
     </item>
     
     <item>
       <title>雲間の山</title>
-      <link>https://www.hobofoto.work/blog/mountain-between-clouds/</link>
+      <link>https://drthomas246.github.io/blog/mountain-between-clouds/</link>
       <pubDate>Mon, 09 May 2016 23:28:32 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/mountain-between-clouds/</guid>
+      <guid>https://drthomas246.github.io/blog/mountain-between-clouds/</guid>
       <description>雲がかかってとても幻想的でした。 雲間の山</description>
     </item>
     
     <item>
       <title>黄色い花達</title>
-      <link>https://www.hobofoto.work/blog/yellow-flowers/</link>
+      <link>https://drthomas246.github.io/blog/yellow-flowers/</link>
       <pubDate>Sun, 08 May 2016 23:23:07 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/yellow-flowers/</guid>
+      <guid>https://drthomas246.github.io/blog/yellow-flowers/</guid>
       <description>近所に新しくできた公園で見つけました。 黄色い花 黄色い花２</description>
     </item>
     
     <item>
       <title>クローバー</title>
-      <link>https://www.hobofoto.work/blog/clover/</link>
+      <link>https://drthomas246.github.io/blog/clover/</link>
       <pubDate>Tue, 03 May 2016 23:17:21 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/clover/</guid>
+      <guid>https://drthomas246.github.io/blog/clover/</guid>
       <description>早く四つ葉が咲かないかな 四葉のクローバー</description>
     </item>
     
     <item>
       <title>さくら</title>
-      <link>https://www.hobofoto.work/blog/blossom/</link>
+      <link>https://drthomas246.github.io/blog/blossom/</link>
       <pubDate>Tue, 03 May 2016 23:12:22 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/blossom/</guid>
+      <guid>https://drthomas246.github.io/blog/blossom/</guid>
       <description>今年も桜満開でしたね。 さくら</description>
     </item>
     
     <item>
       <title>テントウ虫</title>
-      <link>https://www.hobofoto.work/blog/ladybug/</link>
+      <link>https://drthomas246.github.io/blog/ladybug/</link>
       <pubDate>Sun, 01 May 2016 23:08:58 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/blog/ladybug/</guid>
+      <guid>https://drthomas246.github.io/blog/ladybug/</guid>
       <description>春なのでよく出てきます。 テントウムシ</description>
     </item>
     

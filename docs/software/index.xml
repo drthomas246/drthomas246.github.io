@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ソフトウェア on HoBoFoTo</title>
-    <link>https://www.hobofoto.work/software/</link>
+    <link>https://drthomas246.github.io/software/</link>
     <description>Recent content in ソフトウェア on HoBoFoTo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
-    <lastBuildDate>Thu, 15 Oct 2020 15:28:30 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 15:28:30 +0900</lastBuildDate><atom:link href="https://drthomas246.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日課表作成システム</title>
-      <link>https://www.hobofoto.work/software/nikkahyo/</link>
+      <link>https://drthomas246.github.io/software/nikkahyo/</link>
       <pubDate>Fri, 16 Oct 2020 18:57:14 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/software/nikkahyo/</guid>
+      <guid>https://drthomas246.github.io/software/nikkahyo/</guid>
       <description>日課表作成システム ダウンロードはVectorから 学校の先生は日々の授業態度を付けるのに色々大変な思いをされていると思います。このソフトは日々</description>
     </item>
     
     <item>
       <title>Novel Editor</title>
-      <link>https://www.hobofoto.work/software/novel-editor/</link>
+      <link>https://drthomas246.github.io/software/novel-editor/</link>
       <pubDate>Fri, 16 Oct 2020 12:30:33 +0900</pubDate>
       
-      <guid>https://www.hobofoto.work/software/novel-editor/</guid>
+      <guid>https://drthomas246.github.io/software/novel-editor/</guid>
       <description>Novel Editor ダウンロードはVectorから プログラムソースはGitHubから Python で作った、「小説家になろう」の投稿用エディタです。 「キャラクター」、「</description>
     </item>
     
