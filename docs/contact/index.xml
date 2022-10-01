@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>連絡先 on HoBoFoTo</title>
-    <link>https://drthomas246.github.io/contact/</link>
+    <link>https://www.hobofoto.work/contact/</link>
     <description>Recent content in 連絡先 on HoBoFoTo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 13:23:25 +0900</lastBuildDate><atom:link href="https://drthomas246.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 13:23:25 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>問い合わせありがとうございました。</title>
-      <link>https://drthomas246.github.io/contact/success/</link>
+      <link>https://www.hobofoto.work/contact/success/</link>
       <pubDate>Wed, 14 Oct 2015 14:13:20 +0900</pubDate>
       
-      <guid>https://drthomas246.github.io/contact/success/</guid>
+      <guid>https://www.hobofoto.work/contact/success/</guid>
       <description>返答は１週間以内にお返事させていただきます。 しばらくお待ち下さい。</description>
     </item>
     
     <item>
       <title>問い合わせフォーム</title>
-      <link>https://drthomas246.github.io/contact/form/</link>
+      <link>https://www.hobofoto.work/contact/form/</link>
       <pubDate>Wed, 14 Oct 2015 14:06:15 +0900</pubDate>
       
-      <guid>https://drthomas246.github.io/contact/form/</guid>
+      <guid>https://www.hobofoto.work/contact/form/</guid>
       <description>問い合わせフォーム</description>
     </item>
     
     <item>
       <title>掲示板</title>
-      <link>https://drthomas246.github.io/contact/bbs/</link>
+      <link>https://www.hobofoto.work/contact/bbs/</link>
       <pubDate>Mon, 10 Jul 2000 14:01:36 +0900</pubDate>
       
-      <guid>https://drthomas246.github.io/contact/bbs/</guid>
+      <guid>https://www.hobofoto.work/contact/bbs/</guid>
       <description>掲示板</description>
     </item>
     

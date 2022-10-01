@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on HoBoFoTo</title>
-    <link>https://drthomas246.github.io/about/</link>
+    <link>https://www.hobofoto.work/about/</link>
     <description>Recent content in About on HoBoFoTo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 22:02:10 +0900</lastBuildDate><atom:link href="https://drthomas246.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 22:02:10 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ソフトウエアライセンス</title>
-      <link>https://drthomas246.github.io/about/softwear-licence/</link>
+      <link>https://www.hobofoto.work/about/softwear-licence/</link>
       <pubDate>Thu, 26 May 2022 20:41:27 +0900</pubDate>
       
-      <guid>https://drthomas246.github.io/about/softwear-licence/</guid>
+      <guid>https://www.hobofoto.work/about/softwear-licence/</guid>
       <description>ソフトウエアライセンス このライセンス（以下「本規約」）は、お客様が、山原喜寛（以下「作成者」）が提供するアプリケーション及びソフトウエア（以</description>
     </item>
     
     <item>
       <title>プライバシーポリシー</title>
-      <link>https://drthomas246.github.io/about/privacy-policy/</link>
+      <link>https://www.hobofoto.work/about/privacy-policy/</link>
       <pubDate>Sun, 11 Oct 2020 20:41:27 +0900</pubDate>
       
-      <guid>https://drthomas246.github.io/about/privacy-policy/</guid>
+      <guid>https://www.hobofoto.work/about/privacy-policy/</guid>
       <description>本プライバシーポリシー(以降本ポリシー)は、HoBoFoTo(以降当サイト)管理人 山原 喜寛における個人情報の保護およびその適切な取り扱いにつ</description>
     </item>
     

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小説 on HoBoFoTo</title>
-    <link>https://drthomas246.github.io/novel/</link>
+    <link>https://www.hobofoto.work/novel/</link>
     <description>Recent content in 小説 on HoBoFoTo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2000 Dr?Thomas</copyright>
-    <lastBuildDate>Thu, 15 Oct 2020 16:08:58 +0900</lastBuildDate><atom:link href="https://drthomas246.github.io/novel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 16:08:58 +0900</lastBuildDate><atom:link href="https://www.hobofoto.work/novel/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
